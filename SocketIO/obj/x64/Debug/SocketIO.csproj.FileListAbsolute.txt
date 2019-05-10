@@ -1,0 +1,188 @@
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\App.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\MainPage.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\resources.pri
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\AppxManifest.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\SocketIO.build.appxrecipe
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\System.Runtime.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\App.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\App.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\MainPage.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\App.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\MainPage.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\App.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\MainPage.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csproj.CopyComplete
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\priconfig.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\resources.resfiles
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\pri.resfiles
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\qualifiers.txt
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758300200000000.json
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\EngineIoClientDotNet.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\SocketIoClientDotNet.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\XamlAnimatedGif.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Identity.Client.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636340177040000000.json
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csprojAssemblyReference.cache
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\BloomTest.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\Test.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\IUShopping.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\SettingsPage.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\StuffDetail.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.g.i.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.g.cs
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.xaml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.xbf
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\IU-APP.xr.xml
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\IU-APP.exe
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\IU-APP.pdb
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\bin\x64\Debug\Core\IU-APP.exe
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\IU-APP.exe
+C:\Users\ocgrb\source\repos\SocketIO\SocketIO\obj\x64\Debug\IU-APP.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csprojAssemblyReference.cache
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\App.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\App.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\MainPage.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\App.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\MainPage.xaml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\App.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\BloomTest.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\IUShopping.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\SettingsPage.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\NavigationView\StuffDetail.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Layouts\TestLayout\Test.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\MainPage.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\IU-APP.exe
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\IU-APP.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\App.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\BloomTest.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\IUShopping.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\SettingsPage.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\StuffDetail.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\Test.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\MainPage.xbf
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\IU-APP.xr.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\IU-APP.exe
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\IU-APP.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\resources.pri
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\AppxManifest.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Core\IU-APP.exe
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\SocketIO.build.appxrecipe
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\EngineIoClientDotNet.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Identity.Client.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\System.Runtime.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\SocketIoClientDotNet.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\XamlAnimatedGif.dll
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csproj.CoreCompileInputs.cache
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\SocketIO.csproj.CopyComplete
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\priconfig.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\resources.resfiles
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\pri.resfiles
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\qualifiers.txt
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636340177040000000.json
+C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758300200000000.json

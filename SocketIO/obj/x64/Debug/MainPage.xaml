@@ -1,0 +1,71 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="SocketIO.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketIO"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+                    >
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/MediaFile/LocalImages/Background/Wallpaper/LoginPage.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <NavigationView x:ConnectionId='2' x:Name="MainFrameNavigation" IsBackButtonVisible="Collapsed"                                                        >
+            <NavigationView.MenuItems>
+                <NavigationViewItem x:ConnectionId='14' x:Name="IUShop" Icon="Shop" Content="IU Shopping" Tag="SamplePage1" />
+                <NavigationViewItem x:ConnectionId='15' x:Name="News"  Icon="PostUpdate" Content="News" Tag="SamplePage2" />
+                <NavigationViewItem x:ConnectionId='16' x:Name="SchoolResources" Icon="Library" Content="School Resources" Tag="SamplePage3" />
+                <NavigationViewItem Icon="Contact" Content="Your Profile" Tag="SamplePage4" />
+            </NavigationView.MenuItems>
+            <NavigationView.AutoSuggestBox>
+                <AutoSuggestBox x:ConnectionId='17' x:Name="SearchFunction" QueryIcon="Find"/>
+            </NavigationView.AutoSuggestBox>
+            <Frame x:ConnectionId='18' x:Name="TheMainFrame"                                   >
+                <Frame.ContentTransitions>
+                    <TransitionCollection>
+                        <NavigationThemeTransition/>
+                    </TransitionCollection>
+                </Frame.ContentTransitions>
+            </Frame>
+        </NavigationView>
+        <Grid x:ConnectionId='3' CornerRadius="10" Background="{ThemeResource SystemControlAcrylicElementBrush}" x:Name="LoginGrid" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Margin="5">
+                <StackPanel.ChildrenTransitions>
+                    <TransitionCollection>
+                        <EntranceThemeTransition IsStaggeringEnabled="True"  />
+                    </TransitionCollection>
+                </StackPanel.ChildrenTransitions>
+                <ToggleSwitch x:ConnectionId='4'                        Header="Login" Margin="5"/>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="&#xE77B;" FontFamily="Segoe MDL2 Assets" Margin="5"/>
+                    <TextBlock Text="IU ID" Margin="5"/>
+                </StackPanel>
+                <TextBox x:ConnectionId='5' x:Name="UserName" Width="400" Margin="5" CornerRadius="5" PlaceholderText="Enter Your ID"/>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="&#xE9A8;" FontFamily="Segoe MDL2 Assets" Margin="5"/>
+                    <TextBlock Text="Password" Margin="5"/>
+                </StackPanel>
+                <PasswordBox x:ConnectionId='6' x:Name="Password" Width="400" Margin="5" CornerRadius="5" PlaceholderText="Enter Your Password"/>
+                <StackPanel x:ConnectionId='7' x:Name="MailStack" HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="&#xE715;" FontFamily="Segoe MDL2 Assets" Margin="5"/>
+                    <TextBlock Text="Mail" Margin="5"/>
+                </StackPanel>
+                <TextBox x:ConnectionId='8' x:Name="MailText" Width="400" Margin="5" CornerRadius="5" PlaceholderText="Enter Your Email"/>
+                <StackPanel x:ConnectionId='9' x:Name="AgeStack" HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="&#xE717;" FontFamily="Segoe MDL2 Assets" Margin="5"/>
+                    <TextBlock Text="Phone" Margin="5"/>
+                </StackPanel>
+                <TextBox x:ConnectionId='10' x:Name="PhoneNumber" Width="400" Margin="5" CornerRadius="5" PlaceholderText="Enter Your Phone Number"/>
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button x:ConnectionId='11' x:Name="SignUpButton" Content="Sign Up" CornerRadius="5" Height="40" Width="100"                            Margin="5"/>
+                    <Button x:ConnectionId='12' x:Name="LoginButton" Content="Login" CornerRadius="5" Height="40" Width="100"                           Margin="5" />
+                    <Button x:ConnectionId='13' x:Name="GuessLogin" Height="40" Width="100" Content="&#xE805;" Margin="5" CornerRadius="5"                  FontFamily="Segoe MDL2 Assets" />
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
+

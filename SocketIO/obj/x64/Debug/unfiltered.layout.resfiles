@@ -1,0 +1,38 @@
+WinMetadata\Windows.winmd
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+App.xbf
+IU-APP.xr.xml
+Layouts\NavigationView\IUShopping.xbf
+Layouts\NavigationView\SettingsPage.xbf
+Layouts\NavigationView\StuffDetail.xbf
+Layouts\TestLayout\BloomTest.xbf
+Layouts\TestLayout\Test.xbf
+MainPage.xbf
+MediaFile\LocalImages\Background\Gifs\DiscordBall.gif
+MediaFile\LocalImages\Background\Gifs\LoginPopUp.gif
+MediaFile\LocalImages\Background\Gifs\Space.gif
+MediaFile\LocalImages\Background\Wallpaper\LoginPage.png
+MediaFile\LocalImages\Background\Wallpaper\Nature.jpg
+MediaFile\LocalImages\Background\Wallpaper\UserInfo.jpg
+MediaFile\LocalImages\Background\Wallpaper\Vec0.jpg
+MediaFile\ServerImages\Avatars\AI.png
+MediaFile\ServerImages\Avatars\Gia.png
+MediaFile\ServerImages\Avatars\Me.jpg
+MediaFile\ServerImages\Avatars\Nga.jpg
+MediaFile\ServerImages\Phones\galaxy s9.jpg
+MediaFile\ServerImages\Phones\galaxy s9_01.jpg
+MediaFile\ServerImages\Phones\galaxy s9_02.jpg
+MediaFile\ServerImages\Phones\htc u11.jpg
+MediaFile\ServerImages\Phones\Iphone 6.jpeg
+MediaFile\ServerImages\Phones\Iphone 6_01.jpg
+MediaFile\ServerImages\Phones\Iphone 6_02.jpg
+MediaFile\ServerImages\Phones\razerphone 2.jpeg
+MediaFile\ServerImages\Phones\sony xz1.jpg
+MediaFile\ServerImages\ProfileBackground\21.png
+Properties\Default.rd.xml

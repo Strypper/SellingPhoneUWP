@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ocgrb\\OneDrive\\New Backup\\SocketIO\\SocketIO\\SocketIO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ocgrb\\OneDrive\\New Backup\\SocketIO\\SocketIO\\SocketIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ocgrb\\OneDrive\\New Backup\\SocketIO\\SocketIO\\SocketIO.csproj",
+        "projectName": "SocketIO",
+        "projectPath": "C:\\Users\\ocgrb\\OneDrive\\New Backup\\SocketIO\\SocketIO\\SocketIO.csproj",
+        "packagesPath": "C:\\Users\\ocgrb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ocgrb\\OneDrive\\New Backup\\SocketIO\\SocketIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ocgrb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "EngineIoClientDotNet": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Animations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "SocketIoClientDotNet": {
+              "target": "Package",
+              "version": "[1.0.7.1, )"
+            },
+            "XamlAnimatedGif": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

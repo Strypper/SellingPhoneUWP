@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STRYPPER-SURFAC</Machine>
+    <WindowsUser>ocgrb</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>04fea8b5-69ab-4c46-8766-3eb22a031e0d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ocgrb</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\IU-APP.exe">
+      <PackagePath>entrypoint\IU-APP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\engineioclientdotnet\1.0.7\lib\net45\EngineIoClientDotNet.dll">
+      <PackagePath>EngineIoClientDotNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.identity.client\1.1.2-preview0008\lib\win81\Microsoft.Identity.Client.dll">
+      <PackagePath>Microsoft.Identity.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.toolkit\5.0.0\lib\netstandard2.0\Microsoft.Toolkit.dll">
+      <PackagePath>Microsoft.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.toolkit.uwp\5.0.0\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.toolkit.uwp.ui\5.0.0\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.UI.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.toolkit.uwp.ui.animations\5.0.0\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.UI.Animations.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Animations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\1.1.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\1.1.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\newtonsoft.json\12.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.2\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\socketioclientdotnet\1.0.7.1\lib\net45\SocketIoClientDotNet.dll">
+      <PackagePath>SocketIoClientDotNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\win2d.uwp\1.21.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\xamlanimatedgif\1.2.0\lib\portable-win81+wpa81\XamlAnimatedGif.dll">
+      <PackagePath>XamlAnimatedGif.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\.nuget\packages\win2d.uwp\1.21.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Gifs\DiscordBall.gif">
+      <PackagePath>MediaFile\LocalImages\Background\Gifs\DiscordBall.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Gifs\LoginPopUp.gif">
+      <PackagePath>MediaFile\LocalImages\Background\Gifs\LoginPopUp.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Gifs\Space.gif">
+      <PackagePath>MediaFile\LocalImages\Background\Gifs\Space.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Wallpaper\Nature.jpg">
+      <PackagePath>MediaFile\LocalImages\Background\Wallpaper\Nature.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Wallpaper\UserInfo.jpg">
+      <PackagePath>MediaFile\LocalImages\Background\Wallpaper\UserInfo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Wallpaper\Vec0.jpg">
+      <PackagePath>MediaFile\LocalImages\Background\Wallpaper\Vec0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Avatars\Me.jpg">
+      <PackagePath>MediaFile\ServerImages\Avatars\Me.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Avatars\Nga.jpg">
+      <PackagePath>MediaFile\ServerImages\Avatars\Nga.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\galaxy s9.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\galaxy s9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\galaxy s9_01.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\galaxy s9_01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\galaxy s9_02.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\galaxy s9_02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\htc u11.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\htc u11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\Iphone 6_01.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\Iphone 6_01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\Iphone 6_02.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\Iphone 6_02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\sony xz1.jpg">
+      <PackagePath>MediaFile\ServerImages\Phones\sony xz1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\LocalImages\Background\Wallpaper\LoginPage.png">
+      <PackagePath>MediaFile\LocalImages\Background\Wallpaper\LoginPage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Avatars\AI.png">
+      <PackagePath>MediaFile\ServerImages\Avatars\AI.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Avatars\Gia.png">
+      <PackagePath>MediaFile\ServerImages\Avatars\Gia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\ProfileBackground\21.png">
+      <PackagePath>MediaFile\ServerImages\ProfileBackground\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\Iphone 6.jpeg">
+      <PackagePath>MediaFile\ServerImages\Phones\Iphone 6.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\MediaFile\ServerImages\Phones\razerphone 2.jpeg">
+      <PackagePath>MediaFile\ServerImages\Phones\razerphone 2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\IU-APP.xr.xml">
+      <PackagePath>IU-APP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\BloomTest.xbf">
+      <PackagePath>Layouts\TestLayout\BloomTest.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\IUShopping.xbf">
+      <PackagePath>Layouts\NavigationView\IUShopping.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\SettingsPage.xbf">
+      <PackagePath>Layouts\NavigationView\SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\NavigationView\StuffDetail.xbf">
+      <PackagePath>Layouts\NavigationView\StuffDetail.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Layouts\TestLayout\Test.xbf">
+      <PackagePath>Layouts\TestLayout\Test.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ocgrb\OneDrive\New Backup\SocketIO\SocketIO\bin\x64\Debug\Core\IU-APP.exe">
+      <PackagePath>IU-APP.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ocgrb\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.26926.4</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.26926.4, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ocgrb\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.2\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27508.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27508.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27508.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27508.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
